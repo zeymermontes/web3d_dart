@@ -1,0 +1,16 @@
+name: web3d
+description: klaytn support for web3d
+version: 1.0.2
+repository: https://github.com/somnium-labs/web3d
+issue_tracker: https://github.com/somnium-labs/web3d/issues
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  #flutter: ">=1.20.0"
+
+dependencies:
+  #flutter:
+   # sdk: flutter
+  js: ^0.6.3
+  meta: ^1.3.0
+  amdjs: ^2.0.1
